@@ -31,4 +31,6 @@ the order
 Avg Cost for two Cost for two is approximate spent for creating meal for two.
 Number of images per
 restaurant Count of images listed per restaurant on menu page
-Success Rate of payments ratio of successful transactions and payment initiated
+Success Rate of payments ratio of successful transactions and payment initiated.
+
+MS Excel is used for the analysis. The supporting Data and Final Report with findings is attached.
