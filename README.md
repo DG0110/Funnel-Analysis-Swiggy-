@@ -33,4 +33,6 @@ Number of images per
 restaurant Count of images listed per restaurant on menu page
 Success Rate of payments ratio of successful transactions and payment initiated.
 
+![image](https://github.com/DG0110/Food-delivery-Swiggy-app-Funnel-Analysis/assets/112652526/56a86298-ef00-4fa3-a408-f1d6564e3f73)
+
 MS Excel is used for the analysis. The supporting Data and Final Report with findings is attached.
